@@ -183,19 +183,19 @@
   ],
   "resumes": [
     {
+      "label": "Detailed CV, 3 pages",
+      "description": "Best for most applications: every project and recognition in full",
+      "file": "resume/Madhuriben_Balas_CV_Detailed.pdf"
+    },
+    {
       "label": "CV, 2 pages (European format)",
-      "description": "Best for most applications",
+      "description": "Shorter version for European applications",
       "file": "resume/Madhuriben_Balas_CV_EU.pdf"
     },
     {
       "label": "CV, 2 pages (Nordic format)",
       "description": "For Sweden, Denmark, Norway and Finland",
       "file": "resume/Madhuriben_Balas_CV_Nordic.pdf"
-    },
-    {
-      "label": "Detailed CV, 3 pages",
-      "description": "Every project and recognition in full",
-      "file": "resume/Madhuriben_Balas_CV_Detailed.pdf"
     }
   ],
   "languages": [
