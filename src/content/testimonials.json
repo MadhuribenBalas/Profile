@@ -1,0 +1,100 @@
+[
+  {
+    "id": "jatin",
+    "quote": "Consistently delivered high-quality outcomes demonstrating remarkable ownership, technical expertise, and commitment to excellence. Took full responsibility for designing and maintaining automation solutions that significantly improved test coverage, efficiency, and product quality. Played a key role managing across multiple teams despite complex dependencies. Her proactive approach, problem-solving mindset, and leadership qualities make her a strong and deserving candidate.",
+    "author": "Jatin Chauhan",
+    "role": "SourceFuse",
+    "context": "Tester of the Quarter, Comviva NGAGE",
+    "date": "Q4 2025",
+    "featured": true
+  },
+  {
+    "id": "comviva",
+    "quote": "Took on every challenge with grace and delivered on targets, overperformed on committed scope. Felt like a natural extension to our existing team, collaborated beyond expectations, helping adopt new technologies and setting us up for future success.",
+    "author": "Comviva client team",
+    "role": "Client",
+    "context": "Client recommendation, BlueMarble GenAI",
+    "date": "Q1 2025",
+    "featured": true
+  },
+  {
+    "id": "ryan",
+    "quote": "Always on the front foot; reliable, focused, committed. Upfront in calling out concerns and constructively challenging decisions. Strong testing skillset across test case preparation, execution and defect management. Key role in communicating testing progress to business representatives.",
+    "author": "Ryan Sharpley",
+    "role": "Engineering Manager, Commonwealth Bank of Australia",
+    "context": "Engineering manager review, COO Digitisation & Enablement",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "marielle-cwi",
+    "quote": "Over 9 months; set realistic timelines, proactively raised issues with solutions, ensured compliance approvals, actively contributed to all Sprint ceremonies.",
+    "author": "Marielle Cereno",
+    "role": "Product Owner, Commonwealth Bank of Australia",
+    "context": "Product owner feedback, CWI squad",
+    "date": "Jun 2024"
+  },
+  {
+    "id": "komal",
+    "quote": "Immense dedication and strong work ethic, always made us proud in front of the client. Goes over and beyond to keep communication going and is sincere about every responsibility assigned.",
+    "author": "Komal Pairecha",
+    "role": "Account Manager, SourceFuse",
+    "context": "2-year work anniversary recognition",
+    "date": "May 2024"
+  },
+  {
+    "id": "meenu",
+    "quote": "Seamlessly and proactively built, scaled, adapted and streamlined automation systems through 5x department growth, driven by her ability to create efficient processes and insatiable appetite for eliminating pain points.",
+    "author": "Meenu Rani",
+    "role": "SourceFuse",
+    "context": "Our Core Value Award: High Standard, presented by the CEO",
+    "date": "Q1 2024"
+  },
+  {
+    "id": "marielle-pega",
+    "quote": "SP193 prevented approx. $100,000/year in write-off costs. SP22a saved 10 mins/case for Progress Payments team. 5 successfully deployed changes in 2024.",
+    "author": "Marielle Cereno",
+    "role": "Product Owner, Commonwealth Bank of Australia",
+    "context": "Recognised for commitment, CCI PEGA squad",
+    "date": "Feb – Q2 2024"
+  },
+  {
+    "id": "michael",
+    "quote": "Excellent work; another successful implementation! Thank you for improving our process and risk profile.",
+    "author": "Michael Mynett",
+    "role": "Commonwealth Bank of Australia",
+    "context": "Recognised for commitment, CCI PEGA squad",
+    "date": "Feb – Q2 2024"
+  },
+  {
+    "id": "suganya",
+    "quote": "Back-to-back releases with great resilience; truly commendable.",
+    "author": "Suganya Chellam Krishnamoorthy",
+    "role": "Commonwealth Bank of Australia",
+    "context": "Recognised for commitment, CRA Day0 & Day1",
+    "date": "Aug – Dec 2023"
+  },
+  {
+    "id": "kavitha-2023",
+    "quote": "Mastered all functional flows mid-project; test scenarios always detailed, product bug-free.",
+    "author": "Kavitha Balasubramanian",
+    "role": "Commonwealth Bank of Australia",
+    "context": "Recognised for commitment, CRA Day0 & Day1",
+    "date": "Aug – Dec 2023"
+  },
+  {
+    "id": "bharathram",
+    "quote": "Dedicated contribution to Day 0 and Day 1; excellent scenario combinations, great stakeholder communication.",
+    "author": "BharathRam GeethaBalu",
+    "role": "Commonwealth Bank of Australia",
+    "context": "Recognised for commitment, CRA Day0 & Day1",
+    "date": "Aug – Dec 2023"
+  },
+  {
+    "id": "kavitha-bankwest",
+    "quote": "Joined Day 0 mid-project yet mastered all functional flows and executed complex stories; efforts and hardworking nature highly commendable. Quick learner, amazing work spotting bugs in Bankwest CRA Delta.",
+    "author": "Kavitha Balasubramanian",
+    "role": "Test Lead, Commonwealth Bank of Australia",
+    "context": "Recognised for commitment, CRA Day0 & Bankwest",
+    "date": "Jul 2023 and Nov 2022"
+  }
+]

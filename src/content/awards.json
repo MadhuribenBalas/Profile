@@ -1,0 +1,135 @@
+[
+  {
+    "id": "totq-2025",
+    "title": "Tester of the Quarter",
+    "date": "Q4 2025",
+    "org": "SourceFuse",
+    "context": "Client: Comviva NGAGE (AI/Telecom)",
+    "testimonialIds": [
+      "jatin"
+    ]
+  },
+  {
+    "id": "client-rec-2025",
+    "title": "Client Recommendation",
+    "date": "Q1 2025",
+    "org": "SourceFuse",
+    "context": "Client: Comviva BlueMarble GenAI",
+    "testimonialIds": [
+      "comviva"
+    ]
+  },
+  {
+    "id": "em-review-2024",
+    "title": "Engineering Manager Review",
+    "date": "Jun 2024",
+    "org": "SourceFuse",
+    "context": "Client: CBA, COO Digitisation & Enablement",
+    "testimonialIds": [
+      "ryan"
+    ]
+  },
+  {
+    "id": "po-cwi-2024",
+    "title": "Product Owner Feedback, CWI Squad",
+    "date": "Jun 2024",
+    "org": "SourceFuse",
+    "context": "Client: CBA, CWI",
+    "testimonialIds": [
+      "marielle-cwi"
+    ]
+  },
+  {
+    "id": "anniversary-2024",
+    "title": "2-Year Work Anniversary Recognition",
+    "date": "May 2024",
+    "org": "SourceFuse Technologies",
+    "context": "",
+    "testimonialIds": [
+      "komal"
+    ]
+  },
+  {
+    "id": "core-value-2024",
+    "title": "Our Core Value Award: High Standard",
+    "date": "Q1 2024",
+    "org": "SourceFuse",
+    "context": "Presented by the CEO",
+    "testimonialIds": [
+      "meenu"
+    ]
+  },
+  {
+    "id": "pega-2024",
+    "title": "Recognised for Commitment, CCI PEGA Squad",
+    "date": "Feb – Q2 2024",
+    "org": "SourceFuse",
+    "context": "Client: CBA, CCI PEGA",
+    "testimonialIds": [
+      "marielle-pega",
+      "michael"
+    ]
+  },
+  {
+    "id": "cra-2023",
+    "title": "Recognised for Commitment, CBA Team",
+    "date": "Aug – Dec 2023",
+    "org": "SourceFuse",
+    "context": "Client: CBA, CRA Day0 & Day1",
+    "testimonialIds": [
+      "suganya",
+      "kavitha-2023",
+      "bharathram"
+    ]
+  },
+  {
+    "id": "bankwest",
+    "title": "Recognised for Commitment, CRA Day0 & Bankwest",
+    "date": "Jul 2023 and Nov 2022",
+    "org": "SourceFuse",
+    "context": "Client: CBA",
+    "testimonialIds": [
+      "kavitha-bankwest"
+    ]
+  },
+  {
+    "id": "tcs-spot-2022",
+    "title": "On the Spot Team Award",
+    "date": "Jan 2022",
+    "org": "Tata Consultancy Services",
+    "context": "Client: Refinitiv / LSEG",
+    "testimonialIds": []
+  },
+  {
+    "id": "tcs-service-2021",
+    "title": "Service & Commitment Award",
+    "date": "Oct 2021",
+    "org": "Tata Consultancy Services",
+    "context": "Client: Refinitiv / LSEG",
+    "testimonialIds": []
+  },
+  {
+    "id": "tcs-initiative-2021",
+    "title": "Special Initiative Award",
+    "date": "Apr 2021",
+    "org": "Tata Consultancy Services",
+    "context": "Client: Refinitiv / LSEG",
+    "testimonialIds": []
+  },
+  {
+    "id": "tcs-month-2019",
+    "title": "Star of the Month",
+    "date": "Aug 2019",
+    "org": "Tata Consultancy Services",
+    "context": "Client: Refinitiv / LSEG",
+    "testimonialIds": []
+  },
+  {
+    "id": "tcs-team-2019",
+    "title": "Star Team Award",
+    "date": "Mar 2019",
+    "org": "Tata Consultancy Services",
+    "context": "Client: Refinitiv / LSEG",
+    "testimonialIds": []
+  }
+]

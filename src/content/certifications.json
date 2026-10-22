@@ -1,0 +1,124 @@
+[
+  {
+    "id": "ctal-tm",
+    "name": "ISTQB® Certified Tester Advanced Level – Test Management (CTAL-TM) v3.0",
+    "issuer": "ISTQB®",
+    "issued": "2026-10",
+    "badge": "istqb-ctal-tm.png",
+    "status": "completed",
+    "code": "CTAL-TM",
+    "about": "Advanced Level test management: test strategy and planning, risk-based testing, estimation, metrics and reporting, defect management and leading a test team."
+  },
+  {
+    "id": "ct-genai",
+    "name": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) v1.1",
+    "issuer": "iSQI (International Software Quality Institute)",
+    "issued": "2026-10",
+    "credentialId": "26-CTGenAI-283404-12",
+    "score": "97.82%",
+    "verifyUrl": "https://app.skillsclub.com/credential/314667-7fbc734e7b71ddbb6662233bcf4fc29c82166515c22b3487eea39c89f2d3f517?locale=en",
+    "status": "completed",
+    "badge": "istqb-ct-genai.png",
+    "code": "CT-GenAI",
+    "about": "Using generative AI across the test process: prompting for test analysis, design and automation, managing risks such as hallucinations and data privacy, and planning GenAI adoption in a test team."
+  },
+  {
+    "id": "ctal-tae",
+    "name": "ISTQB® Certified Tester Advanced Level – Test Automation Engineering (CTAL-TAE) v2.0",
+    "issuer": "GASQ (Global Association for Software Quality)",
+    "issued": "2026-10",
+    "credentialId": "26-136482",
+    "score": "92.42%",
+    "verifyUrl": "https://app.skillsclub.com/credential/313284-42483addbc6a9f1d413e6fb0da4501bd5afcb098f5a4427f1b7cc87fc3a2029f?locale=en",
+    "badge": "istqb-ctal-tae.png",
+    "status": "completed",
+    "code": "CTAL-TAE",
+    "about": "Advanced Level test automation engineering: automation architecture, framework design, CI/CD integration, reporting and keeping automation maintainable."
+  },
+  {
+    "id": "ctfl",
+    "name": "ISTQB® Certified Tester Foundation Level (CTFL) v4.0",
+    "issuer": "GASQ (Global Association for Software Quality)",
+    "issued": "2026-09",
+    "credentialId": "26-136025",
+    "score": "85%",
+    "verifyUrl": "https://app.skillsclub.com/credential/312679-4553c447c9e162410c5c32e2710836c7776d3b1cf44d945b50c072e0194b7389?locale=en",
+    "badge": "istqb-ctfl.png",
+    "status": "completed",
+    "code": "CTFL",
+    "about": "Foundation Level: testing principles, the test process across the life cycle, static testing, test techniques and test management basics."
+  },
+  {
+    "id": "databricks-genai",
+    "name": "Databricks Certified Generative AI Engineer Associate",
+    "issuer": "Databricks",
+    "issued": "2026-01",
+    "credentialId": "171388162",
+    "verifyUrl": "https://credentials.databricks.com/1096c0ed-20ad-4393-95a6-d6937e9f03c9",
+    "status": "completed",
+    "details": "Section scores: Design Applications 100%, Data Preparation 100%, Assembling & Deploying 100%, Governance 100%, Evaluation & Monitoring 100%, Application Development 78%",
+    "links": [
+      {
+        "label": "Databricks certification wallet",
+        "url": "https://credentials.databricks.com/profile/madhuribenbalas279792/wallet"
+      }
+    ],
+    "code": "GenAI Associate",
+    "about": "Designing, building, evaluating and governing generative AI applications on the Databricks platform.",
+    "badge": "databricks-genai.png"
+  },
+  {
+    "id": "newrelic-nvf",
+    "name": "New Relic Verified Foundation (NVF)",
+    "issuer": "New Relic",
+    "issued": "2025-06",
+    "credentialId": "153823984",
+    "verifyUrl": "https://credentials.newrelic.com/a8e53d37-5c21-45bc-ae2b-76b6fdc89a21",
+    "status": "completed",
+    "code": "NVF",
+    "about": "Observability with New Relic: monitoring, dashboards and alerting for applications in production.",
+    "badge": "newrelic-nvf.png"
+  },
+  {
+    "id": "lambdatest-cypress",
+    "name": "LambdaTest Cypress 101",
+    "issuer": "LambdaTest",
+    "issued": "2024-07",
+    "credentialId": "C101-1P5SRF",
+    "verifyUrl": "https://www.testmuai.com/certifications/verify/",
+    "status": "completed",
+    "code": "Cypress 101",
+    "about": "Web test automation with Cypress.",
+    "badge": "cypress.svg"
+  },
+  {
+    "id": "aws-ccp",
+    "name": "AWS Certified Cloud Practitioner",
+    "issuer": "Amazon Web Services",
+    "issued": "2024-01",
+    "credentialId": "90X17HSLYEQ11Y5R",
+    "verifyUrl": "https://cp.certmetrics.com/amazon/en/public/verify/credential/90X17HSLYEQ11Y5R",
+    "status": "completed",
+    "code": "AWS CCP",
+    "about": "AWS cloud fundamentals: core services, security, pricing and architecture basics.",
+    "badge": "aws-ccp.png"
+  },
+  {
+    "id": "ct-ai",
+    "name": "ISTQB® Certified Tester AI Testing (CT-AI) v2.0",
+    "issuer": "ISTQB®",
+    "status": "in-progress",
+    "expected": "Nov 2026",
+    "code": "CT-AI",
+    "about": "Testing AI-based systems and using AI in testing."
+  },
+  {
+    "id": "ct-atlas",
+    "name": "ISTQB® Certified Tester Agile Test Leadership at Scale (CT-ATLaS)",
+    "issuer": "ISTQB®",
+    "status": "in-progress",
+    "expected": "Nov 2026",
+    "code": "CT-ATLaS",
+    "about": "Leading testing in agile organisations at scale."
+  }
+]

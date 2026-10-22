@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "faster-ci-builds",
+    "title": "Cutting a regression build from 2 hours to 45 minutes",
+    "client": "Rakuten Mobile",
+    "projectId": "shop-reservation",
+    "problem": "The shop reservation system's Jenkins regression build took about 2 hours, and the suite produced around 40 new test cases a month. Flaky tests and CI failures slowed every release.",
+    "approach": [
+      "Moved the suite to Robot Framework Browser Library (Playwright-based).",
+      "Introduced parallel execution in Jenkins.",
+      "Found and fixed flaky scripts and CI execution issues.",
+      "Used Claude AI to speed up test script development and optimisation."
+    ],
+    "result": [
+      "Build time down from ~2 hours to ~45 minutes (about 62% faster).",
+      "Test output up from ~40 a month to nearly 200 in two months.",
+      "A more stable CI run, with execution reports shared with stakeholders."
+    ],
+    "technologies": ["Robot Framework", "Browser Library", "Jenkins", "Claude AI"],
+    "note": "Client details are kept general to respect confidentiality."
+  },
+  {
+    "slug": "testing-ai-chatbots",
+    "title": "Testing an AI chatbot builder with no playbook",
+    "client": "Comviva",
+    "projectId": "neuratalk",
+    "problem": "NeuraTalk lets businesses build LLM and Rasa chatbots. Chatbot answers vary in wording, so exact-match assertions do not work, and there was no existing test playbook.",
+    "approach": [
+      "Designed a Python framework that compares responses using BERT semantic embeddings instead of exact text.",
+      "Covered intent recognition, entity extraction, fallback handling, context switching and multi-turn accuracy.",
+      "Extended coverage to bot creation and deployment, canvas creation, message flows and bot-to-agent handover in QA and staging."
+    ],
+    "result": [
+      "800+ automated test cases.",
+      "50+ critical defects found before production.",
+      "Recognised as Tester of the Quarter (Q4 2025) for this work."
+    ],
+    "technologies": ["Python", "Robot Framework", "BERT", "Rasa", "LLM"],
+    "note": "Client details are kept general to respect confidentiality."
+  },
+  {
+    "slug": "mobile-regression-in-hours",
+    "title": "Mobile regression in 5 hours instead of 3 days",
+    "client": "Axis Bank",
+    "projectId": "axis-siddhi",
+    "problem": "Regression testing for the SIDDHI CRM mobile app (React Native, Android and iOS) took about 3 days per cycle.",
+    "approach": [
+      "Designed a page object model Appium framework in Java from scratch.",
+      "Automated 120+ Android and 50+ iOS scenarios.",
+      "Onboarded the team so they could extend the framework themselves."
+    ],
+    "result": [
+      "Regression cycle down from 3 days to 5 hours.",
+      "60+ bugs raised and resolved before release deadlines."
+    ],
+    "technologies": ["Appium", "Java", "React Native"],
+    "note": "Delivered at Tata Consultancy Services. Client details are kept general."
+  }
+]

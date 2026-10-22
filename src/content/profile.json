@@ -1,0 +1,347 @@
+{
+  "name": "Madhuriben Balas",
+  "title": "Senior Tester – Automation",
+  "headline": "Senior Tester – Automation | Conversational AI & Test Automation | Open to Senior and Lead QA roles",
+  "tagline": "I build test automation that makes releases faster and safer, for banks, telecoms and AI products.",
+  "openTo": [
+    "Senior Test Automation Engineer",
+    "Senior QA Engineer",
+    "QA Lead / Test Lead",
+    "Test Automation Lead"
+  ],
+  "location": "Porbandar, Gujarat, India",
+  "workPermit": "Open to relocation. Requires visa sponsorship to work in the EU.",
+  "email": "madhuriben.balas@gmail.com",
+  "phone": "+91 70160 33988",
+  "linkedin": "https://linkedin.com/in/madhuri6910",
+  "focusAreas": [
+    "AI/GenAI testing",
+    "Framework architecture",
+    "Test strategy & leadership",
+    "Mobile automation (Android & iOS)"
+  ],
+  "summary": [
+    "Senior test automation engineer with 8+ years in test automation and quality leadership across banking, FinTech, financial markets, telecom, mobile and AI/GenAI, specialising in AI chatbot and NLP testing. Certified in ISTQB® CTAL-TAE v2.0 (Advanced, Test Automation Engineering), ISTQB® CT-GenAI v1.1 (Testing with Generative AI), ISTQB® CTFL v4.0 and Databricks Generative AI Engineer Associate (Jan 2026).",
+    "I built a Python + BERT semantic embedding framework from scratch to validate LLM/Rasa chatbot responses, and work daily with Python frameworks, Selenium, Postman and Robot Framework for functional, regression, performance and API testing.",
+    "I lead a team of 5 testers, have interviewed 25 candidates for automation tester roles, and own test plans, RTMs, defect traceability and deployment sign-offs. I currently lead automation for Rakuten Mobile (Japan)'s shop reservation platform, where parallel execution cut Jenkins builds from ~2 hours to ~45 minutes and Claude AI lifted output from ~40 to nearly 200 test cases in two months; before that, bilingual Kotlin mobile automation for Rakuten Link (40+ test cases a week).",
+    "I have delivered 4,500+ automated test cases and found 480+ critical defects for 7+ global clients, cutting regression cycles from days to hours. I am experienced in Conversational AI test strategy, sprint planning, CI/CD (Jenkins, AWS Device Farm), cross-functional stakeholder leadership and quality metrics reporting to technical and non-technical audiences.",
+    "Tester of the Quarter (Q4 2025) with 15+ client and management recognitions. ISTQB CTAL-TM v3.0 (Test Management) certified; completing CT-AI v2.0 and CT-ATLaS (expected Nov 2026). Open to AWS, GCP and containerised environments; open to Senior Test Automation and QA Lead / Test Lead roles."
+  ],
+  "highlight": {
+    "label": "Jenkins regression build, Rakuten Mobile shop reservation system",
+    "beforeMinutes": 120,
+    "afterMinutes": 45,
+    "context": "Moved the suite to Robot Framework Browser Library with parallel execution."
+  },
+  "stats": [
+    {
+      "value": 8,
+      "suffix": "+",
+      "label": "years in test automation"
+    },
+    {
+      "value": 4500,
+      "suffix": "+",
+      "label": "automated test cases delivered"
+    },
+    {
+      "value": 480,
+      "suffix": "+",
+      "label": "critical defects found"
+    },
+    {
+      "value": 7,
+      "suffix": "+",
+      "label": "global clients"
+    }
+  ],
+  "testRun": [
+    {
+      "suite": "ITOMIXER web & mobile",
+      "result": "1,500+ tests"
+    },
+    {
+      "suite": "NeuraTalk AI chatbot",
+      "result": "800+ tests"
+    },
+    {
+      "suite": "Rakuten Link, EN/JA",
+      "result": "400+ tests"
+    },
+    {
+      "suite": "BlueMarble GenAI APIs",
+      "result": "200+ tests"
+    },
+    {
+      "suite": "Axis Bank regression",
+      "result": "3 days → 5 h"
+    }
+  ],
+  "competencies": [
+    {
+      "name": "Test Strategy & Planning",
+      "icon": "clipboard-list"
+    },
+    {
+      "name": "Team Leadership & Mentoring",
+      "icon": "users"
+    },
+    {
+      "name": "AI Chatbot Testing (LLM & Rasa)",
+      "icon": "bot"
+    },
+    {
+      "name": "Semantic Analysis (BERT Embeddings)",
+      "icon": "brain"
+    },
+    {
+      "name": "GenAI API Testing",
+      "icon": "sparkles"
+    },
+    {
+      "name": "Bilingual Test Automation (English & Japanese)",
+      "icon": "languages"
+    },
+    {
+      "name": "Test Framework Design",
+      "icon": "blocks"
+    },
+    {
+      "name": "UI, API & Mobile Automation (Android & iOS)",
+      "icon": "smartphone"
+    },
+    {
+      "name": "SpecFlow BDD",
+      "icon": "file-code"
+    },
+    {
+      "name": "CI/CD Integration (Jenkins, AWS Device Farm)",
+      "icon": "workflow"
+    },
+    {
+      "name": "AI-Assisted Testing (Claude AI, GitHub Copilot)",
+      "icon": "wand-sparkles"
+    },
+    {
+      "name": "CI Build Optimisation & Parallel Execution",
+      "icon": "gauge"
+    },
+    {
+      "name": "Flaky Test Analysis & Automation Stability",
+      "icon": "shield-check"
+    },
+    {
+      "name": "Defect Life Cycle Management",
+      "icon": "bug"
+    },
+    {
+      "name": "Stakeholder Communication",
+      "icon": "messages-square"
+    },
+    {
+      "name": "Oracle DB Testing",
+      "icon": "database"
+    },
+    {
+      "name": "Agile/Scrum",
+      "icon": "iteration-cw"
+    }
+  ],
+  "skills": [
+    {
+      "label": "Languages",
+      "items": "C# (Expert), Java (Expert), Kotlin (Proficient), Python (Proficient), Oracle SQL"
+    },
+    {
+      "label": "Automation",
+      "items": "Selenium (BDD, POM), Playwright (Robot Framework Browser Library), SpecFlow BDD, Robot Framework, Appium, Kotlin (Android & iOS), Cypress"
+    },
+    {
+      "label": "Performance testing",
+      "items": "JMeter"
+    },
+    {
+      "label": "AI & GenAI testing",
+      "items": "BERT Embeddings, Semantic Analysis, LLM Response Validation, Rasa, GenAI API Testing, Claude AI (script & locator creation), GitHub Copilot"
+    },
+    {
+      "label": "API & test management",
+      "items": "Postman, Robot Framework (REST Library), PyCharm; JIRA, Zephyr, Xray, TestRail (test cases, defect tracking, reporting)"
+    },
+    {
+      "label": "CI/CD & devices",
+      "items": "Jenkins (build optimisation, parallel execution, failure analysis), Git, AWS Device Farm, LambdaTest, BrowserStack"
+    },
+    {
+      "label": "Cloud & platforms",
+      "items": "AWS (Certified Cloud Practitioner), Databricks (Certified GenAI Engineer Associate), New Relic (NVF; observability & monitoring), AEM, PEGA (CRM/BPM), React Native"
+    },
+    {
+      "label": "Leadership & methods",
+      "items": "Test Strategy, Test Planning, RTM & Defect Traceability, Deployment Sign-off, Hiring & Interviewing, Sprint Test Planning, Risk-Based Testing, PR Review, Mentoring, Knowledge Transfer, Stakeholder Reporting; Agile Scrum, SDLC, STLC, Retrospectives"
+    }
+  ],
+  "resumes": [
+    {
+      "label": "CV, 2 pages (European format)",
+      "description": "Best for most applications",
+      "file": "resume/Madhuriben_Balas_CV_EU.pdf"
+    },
+    {
+      "label": "CV, 2 pages (Nordic format)",
+      "description": "For Sweden, Denmark, Norway and Finland",
+      "file": "resume/Madhuriben_Balas_CV_Nordic.pdf"
+    },
+    {
+      "label": "Detailed CV, 3 pages",
+      "description": "Every project and recognition in full",
+      "file": "resume/Madhuriben_Balas_CV_Detailed.pdf"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Proficient (C1)"
+    },
+    {
+      "language": "Gujarati",
+      "level": "Native-level (C2)"
+    },
+    {
+      "language": "Hindi",
+      "level": "Native-level (C2)"
+    }
+  ],
+  "education": [
+    {
+      "dates": "Jul 2014 – Jun 2018",
+      "qualification": "Bachelor of Engineering – Information Technology (B.E. IT)",
+      "institution": "Parul Institute of Engineering & Technology",
+      "details": "Affiliated to Gujarat Technological University (GTU). CGPA 8.37/10.",
+      "logo": "gtu.png",
+      "logoAlt": "Gujarat Technological University logo"
+    },
+    {
+      "dates": "May 2012 – May 2014",
+      "qualification": "Higher Secondary Certificate (HSC) – Science",
+      "institution": "Jawahar Navodaya Vidyalaya (JNV), Porbandar",
+      "details": "Affiliated to Central Board of Secondary Education (CBSE). 77.6%.",
+      "logo": "jnv.png",
+      "logoAlt": "Navodaya Vidyalaya Samiti logo"
+    },
+    {
+      "dates": "May 2010 – May 2012",
+      "qualification": "Secondary School Certificate (SSC)",
+      "institution": "Jawahar Navodaya Vidyalaya (JNV), Porbandar",
+      "details": "Affiliated to Central Board of Secondary Education (CBSE). CGPA 9.2/10.",
+      "logo": "jnv.png",
+      "logoAlt": "Navodaya Vidyalaya Samiti logo"
+    }
+  ],
+  "achievements": [
+    {
+      "label": "Academic",
+      "items": [
+        "Shri Dewang Mehta IT Award 2017 (NASSCOM top ranker, 4th year IT, GTU)",
+        "2nd position in the college across all B.E. semesters (Parul Institute of Engineering & Technology)",
+        "Maths Talent Search Exam 2009: 7th rank, state level",
+        "CBSE PSA 2013: 95.42 percentile in quantitative reasoning",
+        "Dr. S. Radhakrishnan GK Award: 72% (all-states competition, 2011)",
+        "Smart Maths ABACUS Level 1, Grade A+ (2010)"
+      ]
+    },
+    {
+      "label": "School leadership & events",
+      "items": [
+        "School Captain, JNV Porbandar (led morning assemblies and student representation)",
+        "Regional Science Congress 2012, NVS Pune Region",
+        "Green Olympiad 2011, Ministry of Environment & TERI",
+        "Essay Writing: 1st position",
+        "Poster Competition: 3rd position",
+        "Lagna Geet: 2nd position",
+        "Painting Merit Certificate, BL Kuriakose Elias Inter-School Competition (2009)"
+      ]
+    },
+    {
+      "label": "Sports",
+      "items": [
+        "Kabaddi: 1st position at JNV Porbandar (2009–10), selected for the NVS Pune Regional Sports event"
+      ]
+    }
+  ],
+  "toolGroups": [
+    {
+      "label": "Languages",
+      "tools": [
+        "java",
+        "csharp",
+        "kotlin",
+        "python",
+        "oracle-sql"
+      ]
+    },
+    {
+      "label": "Test automation",
+      "tools": [
+        "selenium",
+        "playwright",
+        "robot-framework",
+        "appium",
+        "cypress",
+        "cucumber",
+        "specflow"
+      ]
+    },
+    {
+      "label": "API & performance",
+      "tools": [
+        "postman",
+        "jmeter"
+      ]
+    },
+    {
+      "label": "AI & GenAI testing",
+      "tools": [
+        "claude",
+        "github-copilot",
+        "rasa",
+        "bert"
+      ]
+    },
+    {
+      "label": "CI/CD & devices",
+      "tools": [
+        "jenkins",
+        "git",
+        "github",
+        "aws-device-farm",
+        "browserstack",
+        "lambdatest",
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "label": "Test management & IDE",
+      "tools": [
+        "jira",
+        "zephyr",
+        "xray",
+        "testrail",
+        "pycharm"
+      ]
+    },
+    {
+      "label": "Cloud & platforms",
+      "tools": [
+        "aws",
+        "databricks",
+        "new-relic",
+        "salesforce",
+        "aem",
+        "pega",
+        "react-native"
+      ]
+    }
+  ]
+}

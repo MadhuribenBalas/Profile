@@ -1,0 +1,81 @@
+[
+  {
+    "id": "sourcefuse",
+    "orgId": "sourcefuse",
+    "company": "SourceFuse Technologies India Pvt. Ltd.",
+    "title": "Senior Tester – Automation",
+    "location": "Noida, Uttar Pradesh, India",
+    "start": "2022-05",
+    "end": null,
+    "summary": "IT services company, delivering testing for international clients.",
+    "clientIds": [
+      "rakuten-mobile",
+      "cba",
+      "comviva",
+      "itomixer"
+    ],
+    "highlights": [
+      {
+        "label": "Team leadership",
+        "text": "5 testers report to me across 2 squads in a 15-member QA team; I run PR reviews, test case reviews and knowledge-transfer sessions, and mentor juniors on AI testing tools, NLP concepts, automation best practice and complex functional areas."
+      },
+      {
+        "label": "Hiring",
+        "text": "Interviewed 25 candidates for automation tester positions across various projects and requirements."
+      },
+      {
+        "label": "Strategy & delivery",
+        "text": "Define test strategy and scope for several concurrent client projects (entry/exit criteria, timelines, risk areas); coordinate development, manual QA and business teams; report quality metrics to stakeholders."
+      },
+      {
+        "label": "Test governance & releases",
+        "text": "Created test plans, requirements traceability matrices (RTM), defect traceability matrices and proofs of concept (PoCs); provided QA sign-off for deployments and took part in UAT and production deployments, supporting clients with their testing."
+      },
+      {
+        "label": "CI/CD & AI-assisted testing",
+        "text": "Run suites through Jenkins integrated with AWS Device Farm on real Android and iOS devices; use Claude AI and GitHub Copilot for locator creation and script generation, cutting scripting time and improving accuracy."
+      }
+    ]
+  },
+  {
+    "id": "tcs",
+    "orgId": "tcs",
+    "company": "Tata Consultancy Services Limited (TCS)",
+    "title": "QA Engineer",
+    "location": "Gandhinagar, Gujarat, India",
+    "start": "2018-10",
+    "end": "2022-04",
+    "summary": "IT services company, delivering testing for financial-markets and banking clients.",
+    "clientIds": [
+      "refinitiv",
+      "axis-bank"
+    ],
+    "highlights": [
+      {
+        "text": "Prepared test strategies, test plans and reports; delivered regression, smoke and functional reports within sprint deadlines to support client demos."
+      },
+      {
+        "text": "Raised and tracked 70+ defects in JIRA with clear reproduction steps; coached peers on defect-reporting standards and scenario coverage."
+      },
+      {
+        "text": "Earned 5 company awards in 3 years: On the Spot Team (Jan 2022), Service & Commitment (Oct 2021), Special Initiative (Apr 2021), Star of the Month (Aug 2019) and Star Team (Mar 2019)."
+      }
+    ]
+  },
+  {
+    "id": "isro",
+    "orgId": "isro",
+    "company": "Space Applications Centre (SAC), ISRO",
+    "title": "Intern – Web Developer",
+    "location": "Ahmedabad, Gujarat, India",
+    "start": "2018-01",
+    "end": "2018-06",
+    "summary": "6-month internship in the MISD Department.",
+    "clientIds": [],
+    "highlights": [
+      {
+        "text": "Built the Bank Guarantee Monitoring System, a full-stack web app (HTML, CSS, JavaScript, JSP) on ISRO-SAC's internal server that digitised financial guarantee tracking."
+      }
+    ]
+  }
+]

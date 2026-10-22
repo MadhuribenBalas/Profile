@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sourcefuse",
+    "name": "SourceFuse Technologies",
+    "initials": "SF",
+    "logo": "sourcefuse.png",
+    "logoBg": "#000000"
+  },
+  {
+    "id": "tcs",
+    "name": "Tata Consultancy Services",
+    "initials": "TCS",
+    "logo": "tcs.png"
+  },
+  {
+    "id": "isro",
+    "name": "Space Applications Centre, ISRO",
+    "initials": "SAC",
+    "logo": "isro.png",
+    "logoBg": "#041160"
+  },
+  {
+    "id": "rakuten-mobile",
+    "name": "Rakuten Mobile",
+    "initials": "RM",
+    "logo": "rakuten.svg"
+  },
+  {
+    "id": "cba",
+    "name": "Commonwealth Bank of Australia",
+    "initials": "CBA",
+    "logo": "commonwealth-bank.svg"
+  },
+  {
+    "id": "comviva",
+    "name": "Comviva",
+    "initials": "CV",
+    "logo": "comviva.png"
+  },
+  {
+    "id": "itomixer",
+    "name": "ITOMIXER",
+    "initials": "IM",
+    "logo": "itomixer.png"
+  },
+  {
+    "id": "refinitiv",
+    "name": "Refinitiv (LSEG)",
+    "initials": "LSEG",
+    "logo": "refinitiv.png"
+  },
+  {
+    "id": "axis-bank",
+    "name": "Axis Bank",
+    "initials": "AX",
+    "logo": "axis-bank.svg"
+  }
+]

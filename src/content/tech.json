@@ -1,0 +1,224 @@
+[
+  {
+    "id": "java",
+    "name": "Java",
+    "initials": "JA",
+    "logo": "java.svg"
+  },
+  {
+    "id": "csharp",
+    "name": "C#",
+    "initials": "C#",
+    "logo": "csharp.svg"
+  },
+  {
+    "id": "kotlin",
+    "name": "Kotlin",
+    "initials": "KO",
+    "logo": "kotlin.svg"
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "initials": "PY",
+    "logo": "python.svg"
+  },
+  {
+    "id": "oracle-sql",
+    "name": "Oracle SQL",
+    "initials": "OR",
+    "logo": "oracle-sql.svg"
+  },
+  {
+    "id": "selenium",
+    "name": "Selenium",
+    "initials": "SE",
+    "logo": "selenium.svg"
+  },
+  {
+    "id": "playwright",
+    "name": "Playwright",
+    "initials": "PL",
+    "logo": "playwright.svg"
+  },
+  {
+    "id": "robot-framework",
+    "name": "Robot Framework",
+    "initials": "RO",
+    "logo": "robot-framework.svg"
+  },
+  {
+    "id": "appium",
+    "name": "Appium",
+    "initials": "AP",
+    "logo": "appium.svg"
+  },
+  {
+    "id": "cypress",
+    "name": "Cypress",
+    "initials": "CY",
+    "logo": "cypress.svg"
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "initials": "CU",
+    "logo": "cucumber.svg"
+  },
+  {
+    "id": "specflow",
+    "name": "SpecFlow",
+    "initials": "SF"
+  },
+  {
+    "id": "postman",
+    "name": "Postman",
+    "initials": "PO",
+    "logo": "postman.svg"
+  },
+  {
+    "id": "jmeter",
+    "name": "JMeter",
+    "initials": "JM",
+    "logo": "jmeter.svg"
+  },
+  {
+    "id": "claude",
+    "name": "Claude AI",
+    "initials": "CL",
+    "logo": "claude.svg"
+  },
+  {
+    "id": "github-copilot",
+    "name": "GitHub Copilot",
+    "initials": "GI",
+    "logo": "github-copilot.svg"
+  },
+  {
+    "id": "rasa",
+    "name": "Rasa",
+    "initials": "RA",
+    "logo": "rasa.svg"
+  },
+  {
+    "id": "bert",
+    "name": "BERT",
+    "initials": "BERT"
+  },
+  {
+    "id": "jenkins",
+    "name": "Jenkins",
+    "initials": "JE",
+    "logo": "jenkins.svg"
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "initials": "GI",
+    "logo": "git.svg"
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "initials": "GI",
+    "logo": "github.svg"
+  },
+  {
+    "id": "aws-device-farm",
+    "name": "AWS Device Farm",
+    "initials": "AW",
+    "logo": "aws-device-farm.svg"
+  },
+  {
+    "id": "browserstack",
+    "name": "BrowserStack",
+    "initials": "BR",
+    "logo": "browserstack.svg"
+  },
+  {
+    "id": "lambdatest",
+    "name": "LambdaTest",
+    "initials": "LT"
+  },
+  {
+    "id": "android",
+    "name": "Android",
+    "initials": "AN",
+    "logo": "android.svg"
+  },
+  {
+    "id": "ios",
+    "name": "iOS",
+    "initials": "IO",
+    "logo": "ios.svg"
+  },
+  {
+    "id": "jira",
+    "name": "JIRA",
+    "initials": "JI",
+    "logo": "jira.svg"
+  },
+  {
+    "id": "zephyr",
+    "name": "Zephyr",
+    "initials": "Z"
+  },
+  {
+    "id": "xray",
+    "name": "Xray",
+    "initials": "X"
+  },
+  {
+    "id": "testrail",
+    "name": "TestRail",
+    "initials": "TE",
+    "logo": "testrail.svg"
+  },
+  {
+    "id": "pycharm",
+    "name": "PyCharm",
+    "initials": "PY",
+    "logo": "pycharm.svg"
+  },
+  {
+    "id": "aws",
+    "name": "AWS",
+    "initials": "AW",
+    "logo": "aws.svg"
+  },
+  {
+    "id": "databricks",
+    "name": "Databricks",
+    "initials": "DA",
+    "logo": "databricks.svg"
+  },
+  {
+    "id": "new-relic",
+    "name": "New Relic",
+    "initials": "NE",
+    "logo": "new-relic.svg"
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce",
+    "initials": "SA",
+    "logo": "salesforce.svg"
+  },
+  {
+    "id": "aem",
+    "name": "Adobe Experience Manager",
+    "initials": "AD",
+    "logo": "aem.svg"
+  },
+  {
+    "id": "pega",
+    "name": "PEGA",
+    "initials": "PEGA"
+  },
+  {
+    "id": "react-native",
+    "name": "React Native",
+    "initials": "RE",
+    "logo": "react-native.svg"
+  }
+]

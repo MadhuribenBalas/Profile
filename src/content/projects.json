@@ -1,0 +1,237 @@
+[
+  {
+    "id": "shop-reservation",
+    "name": "Shop Reservation System – Retail Store Reservation & Queue Management",
+    "client": "Rakuten Mobile, Japan",
+    "clientId": "rakuten-mobile",
+    "employerId": "sourcefuse",
+    "role": "Senior Tester – Automation",
+    "start": "2026-08",
+    "end": null,
+    "domain": "Telecom retail",
+    "sector": "Telecom",
+    "technologies": [
+      "Robot Framework",
+      "Browser Library",
+      "Playwright",
+      "Jenkins",
+      "Claude AI"
+    ],
+    "summary": "Test automation for Rakuten Mobile's retail store reservation and queue management platform in Japan.",
+    "highlights": [
+      "Lead test automation for online reservations, walk-in check-in, the Reception Terminal and queue management workflows.",
+      "Cut Jenkins build time from ~2 hours to ~45 minutes with Browser Library and parallel execution; raised output from ~40 test cases a month to nearly 200 in two months using Claude AI to develop and optimise scripts.",
+      "Own end-to-end execution, Jenkins build monitoring, failure analysis and stakeholder reports; stabilised automation by fixing flaky scripts and CI failures."
+    ],
+    "metrics": [
+      "Build time ~2 h → ~45 min",
+      "~40 → nearly 200 test cases in 2 months"
+    ],
+    "caseStudy": "faster-ci-builds"
+  },
+  {
+    "id": "rakuten-link",
+    "name": "Rakuten Link – Mobile Communication & Services App",
+    "client": "Rakuten Mobile, Japan",
+    "clientId": "rakuten-mobile",
+    "employerId": "sourcefuse",
+    "role": "Senior Tester – Automation, Team Lead",
+    "start": "2026-03",
+    "end": "2026-08",
+    "domain": "Telecom mobile app",
+    "sector": "Telecom",
+    "technologies": [
+      "Kotlin",
+      "Jenkins",
+      "AWS Device Farm",
+      "Claude AI",
+      "GitHub Copilot",
+      "Android",
+      "iOS"
+    ],
+    "summary": "Bilingual (English and Japanese) mobile automation for Rakuten Mobile's subscriber app on Android and iOS.",
+    "highlights": [
+      "Led automation of Rakuten Mobile's subscriber app: unlimited domestic and international calling, messaging (text, photos, videos, group chats of up to 100), payments, rewards, Rakuten Cash and Points wallet, account management, the Rakuten Link AI assistant, and news and weather.",
+      "Automated 40+ test cases a week in Kotlin on Android and iOS in English and Japanese (400+ in total), executed on real devices across many configurations via Jenkins and AWS Device Farm.",
+      "Led testers within the 15-member QA team (2 squads of 7); ran PR reviews and maintained quality standards across all test deliverables."
+    ],
+    "metrics": [
+      "40+ tests a week",
+      "400+ automated in total"
+    ]
+  },
+  {
+    "id": "neuratalk",
+    "name": "Comviva NGAGE – NeuraTalk AI Chatbot Builder & Agent Portal",
+    "client": "Comviva (AI/Telecom)",
+    "clientId": "comviva",
+    "employerId": "sourcefuse",
+    "role": "Senior Tester – Automation",
+    "start": "2025-04",
+    "end": "2026-03",
+    "domain": "AI / telecom",
+    "sector": "AI & GenAI",
+    "technologies": [
+      "Python",
+      "Robot Framework",
+      "BERT",
+      "Semantic Analysis",
+      "Rasa",
+      "LLM"
+    ],
+    "summary": "Testing for an AI chatbot builder and agent portal, with no existing test playbook to follow.",
+    "highlights": [
+      "With no existing playbook, designed and built a Python framework using BERT semantic embeddings and NLP analysis to validate LLM and Rasa chatbot responses and configurations.",
+      "Automated 800+ test cases covering intent recognition, entity extraction, fallback handling, context switching, multi-turn accuracy, bot creation and deployment, canvas creation, message flows and agent-portal handover in QA and staging; found 50+ critical defects before production."
+    ],
+    "metrics": [
+      "800+ automated tests",
+      "50+ critical defects found before production"
+    ],
+    "caseStudy": "testing-ai-chatbots"
+  },
+  {
+    "id": "bluemarble",
+    "name": "Comviva BlueMarble – GenAI & AWS Platform",
+    "client": "Comviva (AI/GenAI/AWS)",
+    "clientId": "comviva",
+    "employerId": "sourcefuse",
+    "role": "Senior Tester – Automation",
+    "start": "2025-01",
+    "end": "2025-03",
+    "domain": "AI / GenAI on AWS",
+    "sector": "AI & GenAI",
+    "technologies": [
+      "Python",
+      "Robot Framework",
+      "AWS"
+    ],
+    "summary": "API and UI automation for a GenAI recommendation platform.",
+    "highlights": [
+      "Automated 200+ GenAI API scenarios validating AI-generated NLP recommendations, response formats, quality and data accuracy, plus UI checks for API-to-front-end rendering and error handling; found 30+ critical defects."
+    ],
+    "metrics": [
+      "200+ GenAI API scenarios",
+      "30+ critical defects"
+    ]
+  },
+  {
+    "id": "itomixer",
+    "name": "ITOMIXER – Interactive Music Web & Mobile App",
+    "client": "ITOMIXER",
+    "clientId": "itomixer",
+    "employerId": "sourcefuse",
+    "role": "Senior Tester – Automation",
+    "start": "2024-08",
+    "end": "2024-11",
+    "domain": "Media / music",
+    "sector": "Web & Mobile",
+    "technologies": [
+      "Java",
+      "Selenium",
+      "Appium",
+      "JIRA",
+      "Android",
+      "iOS"
+    ],
+    "summary": "Web and mobile testing for an interactive multitrack music listening and learning app.",
+    "highlights": [
+      "Tested a multitrack music listening and learning app; analysed requirements and functional specifications to design coverage for web and mobile.",
+      "Automated 1,500+ UI, functional and regression test cases with a Java POM framework (Selenium for web, Appium for mobile); ran sanity, regression, E2E and SIT across QA, UAT, staging and production.",
+      "Logged and verified defects in JIRA by priority and severity; wrote test plans, test cases and execution reports; took part in daily Scrum and sprint retrospectives."
+    ],
+    "metrics": [
+      "1,500+ automated tests"
+    ]
+  },
+  {
+    "id": "cba",
+    "name": "Commonwealth Bank of Australia – CCI PEGA, CWI & CRA Squads",
+    "client": "CBA (Banking/FinTech)",
+    "clientId": "cba",
+    "employerId": "sourcefuse",
+    "role": "Senior Tester – Automation",
+    "start": "2022-05",
+    "end": "2024-06",
+    "domain": "Banking",
+    "sector": "Banking & FinTech",
+    "technologies": [
+      "C#",
+      "SpecFlow",
+      "Postman",
+      "Robot Framework",
+      "Oracle SQL",
+      "PEGA"
+    ],
+    "summary": "QA point of contact for three squads covering retail, business and premium banking, PEGA CRM and mortgage workflows.",
+    "highlights": [
+      "QA point of contact for the CCI PEGA, CWI and CRA Day0/Day1 squads: led sprint test planning, reported progress to business stakeholders and cleared external blockers.",
+      "Built and maintained a SpecFlow BDD framework in C# automating E2E, SIT, regression, UAT and staging tests for retail, business and premium banking, PEGA CRM and mortgage workflows.",
+      "Tested PEGA backend APIs with Postman and Robot Framework and verified financial data in Oracle SQL; resolved 60+ critical defects."
+    ],
+    "metrics": [
+      "60+ critical defects resolved",
+      "SP193: ~$100K a year in write-offs avoided",
+      "SP22a: 10 minutes saved per case",
+      "5 production changes in 2024"
+    ]
+  },
+  {
+    "id": "axis-siddhi",
+    "name": "Axis Bank – SIDDHI CRM Mobile App",
+    "client": "Axis Bank (Banking)",
+    "clientId": "axis-bank",
+    "employerId": "tcs",
+    "role": "QA Automation Lead",
+    "start": null,
+    "end": null,
+    "duration": "about 1 year",
+    "domain": "Banking",
+    "sector": "Banking & FinTech",
+    "technologies": [
+      "Appium",
+      "Java",
+      "React Native",
+      "Android",
+      "iOS"
+    ],
+    "summary": "Mobile automation for the React Native SIDDHI CRM app.",
+    "highlights": [
+      "Architected a POM-based Appium framework from scratch for the React Native CRM; cut regression from 3 days to 5 hours across 170+ scenarios (120+ Android, 50+ iOS); raised and resolved 60+ bugs before release and led the team's onboarding."
+    ],
+    "metrics": [
+      "Regression 3 days → 5 hours",
+      "170+ scenarios (120+ Android, 50+ iOS)"
+    ],
+    "caseStudy": "mobile-regression-in-hours"
+  },
+  {
+    "id": "refinitiv",
+    "name": "Refinitiv (LSEG) – Financial Markets Data Platform",
+    "client": "Refinitiv / LSEG (FinTech/Financial Markets)",
+    "clientId": "refinitiv",
+    "employerId": "tcs",
+    "role": "QA Engineer",
+    "start": null,
+    "end": null,
+    "duration": "about 2.5 years",
+    "domain": "Financial markets",
+    "sector": "Banking & FinTech",
+    "technologies": [
+      "Java",
+      "Selenium",
+      "Cucumber",
+      "AEM",
+      "Salesforce"
+    ],
+    "summary": "Web automation for a global financial data platform used by 40,000+ customers.",
+    "highlights": [
+      "Automated 150+ multi-language site test cases and 50+ Salesforce scenarios with Selenium Java BDD POM, data-driven and BDD Cucumber frameworks.",
+      "Covered functional, compatibility, system and integration testing across QA, staging and production for a platform used by 40,000+ customers."
+    ],
+    "metrics": [
+      "150+ multi-language tests",
+      "50+ Salesforce scenarios"
+    ]
+  }
+]
